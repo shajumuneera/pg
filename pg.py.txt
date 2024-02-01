@@ -1,3 +1,8 @@
 print("this is our pg")
 
 print("this is our pg 3")
+
+print("this is our pg laskutapa")
+print("this is our pg laskutapa1")
+print("this is our pg laskutapa2")
+ 
